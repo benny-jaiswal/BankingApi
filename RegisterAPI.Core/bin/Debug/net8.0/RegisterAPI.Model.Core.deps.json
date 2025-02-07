@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RegisterAPI.Model.Core/1.0.0": {
+        "runtime": {
+          "RegisterAPI.Model.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RegisterAPI.Model.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

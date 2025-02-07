@@ -1,0 +1,12 @@
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Application\bin\Debug\net7.0\RegisterAPI.Application.deps.json
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Application\bin\Debug\net7.0\RegisterAPI.Application.dll
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Application\bin\Debug\net7.0\RegisterAPI.Application.pdb
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Application\obj\Debug\net7.0\RegisterAPI.Application.csproj.AssemblyReference.cache
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Application\obj\Debug\net7.0\RegisterAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Application\obj\Debug\net7.0\RegisterAPI.Application.AssemblyInfoInputs.cache
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Application\obj\Debug\net7.0\RegisterAPI.Application.AssemblyInfo.cs
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Application\obj\Debug\net7.0\RegisterAPI.Application.csproj.CoreCompileInputs.cache
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Application\obj\Debug\net7.0\RegisterAPI.Application.dll
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Application\obj\Debug\net7.0\refint\RegisterAPI.Application.dll
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Application\obj\Debug\net7.0\RegisterAPI.Application.pdb
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Application\obj\Debug\net7.0\ref\RegisterAPI.Application.dll

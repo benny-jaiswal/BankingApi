@@ -1,0 +1,6 @@
+D:\HealthAPI\RegisterAPI\RegisterAPI\WebAPI.tests\bin\Debug\net8.0\CoverletSourceRootsMapping_RegisterAPI.Test
+D:\HealthAPI\RegisterAPI\RegisterAPI\WebAPI.tests\obj\Debug\net8.0\RegisterAPI.Test.csproj.AssemblyReference.cache
+D:\HealthAPI\RegisterAPI\RegisterAPI\WebAPI.tests\obj\Debug\net8.0\RegisterAPI.Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\HealthAPI\RegisterAPI\RegisterAPI\WebAPI.tests\obj\Debug\net8.0\RegisterAPI.Test.AssemblyInfoInputs.cache
+D:\HealthAPI\RegisterAPI\RegisterAPI\WebAPI.tests\obj\Debug\net8.0\RegisterAPI.Test.AssemblyInfo.cs
+D:\HealthAPI\RegisterAPI\RegisterAPI\WebAPI.tests\obj\Debug\net8.0\RegisterAPI.Test.csproj.CoreCompileInputs.cache

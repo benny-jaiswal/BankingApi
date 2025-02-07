@@ -1,0 +1,11 @@
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Core\bin\Debug\net8.0\RegisterAPI.Model.Core.deps.json
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Core\bin\Debug\net8.0\RegisterAPI.Model.Core.dll
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Core\bin\Debug\net8.0\RegisterAPI.Model.Core.pdb
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Core\obj\Debug\net8.0\RegisterAPI.Model.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Core\obj\Debug\net8.0\RegisterAPI.Model.Core.AssemblyInfoInputs.cache
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Core\obj\Debug\net8.0\RegisterAPI.Model.Core.AssemblyInfo.cs
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Core\obj\Debug\net8.0\RegisterAPI.Model.Core.csproj.CoreCompileInputs.cache
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Core\obj\Debug\net8.0\RegisterAPI.Model.Core.dll
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Core\obj\Debug\net8.0\refint\RegisterAPI.Model.Core.dll
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Core\obj\Debug\net8.0\RegisterAPI.Model.Core.pdb
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Core\obj\Debug\net8.0\ref\RegisterAPI.Model.Core.dll

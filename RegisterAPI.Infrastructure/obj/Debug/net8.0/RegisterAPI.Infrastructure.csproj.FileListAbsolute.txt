@@ -1,0 +1,17 @@
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Infrastructure\bin\Debug\net8.0\RegisterAPI.Infrastructure.deps.json
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Infrastructure\bin\Debug\net8.0\RegisterAPI.Infrastructure.runtimeconfig.json
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Infrastructure\bin\Debug\net8.0\RegisterAPI.Infrastructure.dll
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Infrastructure\bin\Debug\net8.0\RegisterAPI.Infrastructure.pdb
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Infrastructure\bin\Debug\net8.0\RegisterAPI.Model.Core.dll
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Infrastructure\bin\Debug\net8.0\RegisterAPI.Model.Core.pdb
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Infrastructure\obj\Debug\net8.0\RegisterAPI.Infrastructure.csproj.AssemblyReference.cache
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Infrastructure\obj\Debug\net8.0\RegisterAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Infrastructure\obj\Debug\net8.0\RegisterAPI.Infrastructure.AssemblyInfoInputs.cache
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Infrastructure\obj\Debug\net8.0\RegisterAPI.Infrastructure.AssemblyInfo.cs
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Infrastructure\obj\Debug\net8.0\RegisterAPI.Infrastructure.csproj.CoreCompileInputs.cache
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Infrastructure\obj\Debug\net8.0\Register.8F49B95D.Up2Date
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Infrastructure\obj\Debug\net8.0\RegisterAPI.Infrastructure.dll
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Infrastructure\obj\Debug\net8.0\refint\RegisterAPI.Infrastructure.dll
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Infrastructure\obj\Debug\net8.0\RegisterAPI.Infrastructure.pdb
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Infrastructure\obj\Debug\net8.0\RegisterAPI.Infrastructure.genruntimeconfig.cache
+D:\HealthAPI\RegisterAPI\RegisterAPI\RegisterAPI.Infrastructure\obj\Debug\net8.0\ref\RegisterAPI.Infrastructure.dll
