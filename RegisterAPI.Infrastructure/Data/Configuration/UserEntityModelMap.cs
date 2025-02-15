@@ -32,14 +32,23 @@ namespace RegisterAPI.Infrastructure.Data.Configuration
                     .IsRequired()
                     .HasMaxLength(200);
 
-            builder.Property(u => u.Password)
+            builder.Property(u => u.PasswordHash)
                     .IsRequired()
                     .HasMaxLength(256);
 
             builder.Property(u => u.DateOfBirth)
                     .IsRequired();
 
-            // Additional constraints (if any) can be added here
+            builder.HasMany(u => u.UserRoles)
+                   .WithOne(ur => ur.User)
+                   .HasForeignKey(ur => ur.UserId)
+                   .OnDelete(DeleteBehavior.Cascade);
+
+            // One User → Many BankAccounts
+            builder.HasMany(u => u.BankAccounts)
+                   .WithOne(ba => ba.User)
+                   .HasForeignKey(ba => ba.UserId)
+                   .OnDelete(DeleteBehavior.Cascade);
         }       
     }
 }
